@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/GhostESP-Revival/GhostESP.git",
+  "revision": "0156908de7ae6b9c73ffb380276d1d85c8852f13",
+  "branch_at_selection": "Development-deki",
+  "esp_idf_revision": "fff9895c82d744c7237be8847347bdd1b07c6643",
+  "esp_idf_version": "v6.1"
+}
